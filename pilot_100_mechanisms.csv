@@ -1,0 +1,57 @@
+record_id,mechanism,evidence_status,source_span
+2023054762.0,Foot Slip,OBSERVED,lost their footing
+2023010946.0,Foot Slip,INFERRED,lost his balance and fell backward
+2025032882.0,Foot Slip,INFERRED,lose balance and fall from a ladder
+2017076862.0,Foot Misstep,OBSERVED,missed a step and fell
+2018077715.0,Ladder Shift,OBSERVED,The ladder slipped
+20191212409.0,Foot Slip,INFERRED,lost balance and fell
+2022065319.0,Ladder Shift,OBSERVED,ladder became dislodged
+2022065443.0,Foot Slip,INFERRED,lost balance and fell face down
+2020109935.0,Foot Slip,OBSERVED,lost their footing
+2025021614.0,Electrical Shock,OBSERVED,contacted a live electrical box...received an electrical shock
+2022043109.0,Foot Slip,OBSERVED,slipped and fell
+2019054713.0,Foot Misstep,OBSERVED,missed the rung
+2019088090.0,Foot Slip,INFERRED,lost balance
+20191111808.0,Electrical Shock,OBSERVED,received an electric shock and fell
+20191212881.0,Transition Error,OBSERVED,fell while moving from the roof to a ladder
+2024032086.0,Foot Slip,OBSERVED,lost his balance
+20241211715.0,Ladder Shift,OBSERVED,the ladder kicked out from under him
+2021054310.0,Ladder Shift,OBSERVED,The ladder shifted
+2016076386.0,Foot Slip,OBSERVED,right foot slipped
+2015107659.0,Foot Misstep,OBSERVED,missed a step
+2015118471.0,Foot Slip,OBSERVED,slipped on the wet planks
+2016032156.0,Foot Slip,OBSERVED,slipped while descending the ladder
+2025021109.0,Foot Slip,OBSERVED,slipped on the bottom step
+20201010029.0,Ladder Shift,OBSERVED,The ladder shifted
+20181212816.0,Transition Error,OBSERVED,"transitioning from a ladder to a metal roof, an employee slipped"
+2018010057.0,Ladder Shift,OBSERVED,the ladder moved
+2015020266.0,Foot Misstep,OBSERVED,missed a rung
+2015118355.0,Ladder Shift,OBSERVED,it slipped out from under him
+20181111827.0,Ladder Shift,OBSERVED,the ladder slipped out from under him
+2024087597.0,Foot Slip,OBSERVED,slipped off the ladder
+2018066564.0,Ladder Shift,OBSERVED,The ladder slipped out
+2020043183.0,Ladder Shift,OBSERVED,The ladder slipped
+2018054787.0,Ladder Shift,OBSERVED,the ladder slipped
+2018087859.0,Foot Slip,OBSERVED,slipped on the bottom rung
+2016042835.0,Foot Slip,OBSERVED,slipped and fell
+20211211044.0,Foot Slip,OBSERVED,lost footing on the ladder
+2025054419.0,Foot Slip,OBSERVED,slipped off the ladder rung
+2020099271.0,Foot Slip,OBSERVED,He slipped
+20241110868.0,Ladder Shift,OBSERVED,the ladder slid from its position
+2018054811.0,Foot Slip,OBSERVED,the employee slipped
+2015010682.0,Foot Slip,OBSERVED,The employee slipped
+2022076356.0,Transition Error,OBSERVED,"stepping from a ladder to an elevated work platform, when they slipped"
+2017099136.0,Foot Slip,INFERRED,his hand slipped
+2020099143.0,Ladder Shift,OBSERVED,it shifted
+2019099225.0,Foot Slip,OBSERVED,his foot slipped
+2024043095.0,Ladder Shift,OBSERVED,the ladder slipped
+2015010981.0,Foot Slip,INFERRED,lost his balance
+2016076742.0,Foot Slip,INFERRED,lost his grip
+2015031162.0,Foot Misstep,OBSERVED,missed the bottom rung
+2022021429.0,Ladder Shift,OBSERVED,the ladder broke
+2018021568.0,Foot Slip,INFERRED,lost his balance
+2021054161.0,Ladder Shift,OBSERVED,the bottom of the ladder slipped out
+2024032154.0,Electrical Shock,OBSERVED,experienced an electrical shock and fell
+2025010921.0,Ladder Shift,OBSERVED,the ladder gave out
+2021031936.0,Ladder Shift,OBSERVED,the ladder slid out from under him
+2025066267.0,Ladder Shift,OBSERVED,The ladder slipped out from under him
